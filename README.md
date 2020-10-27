@@ -20,7 +20,7 @@ All of our developers are full-stack and participate in delivering all component
 
 ### WebOps development
 
-We take our development environment, and ability to push to production quickly, safely and with high quality results, very seriously. We’re constantly pushing and improving our development environments and processes. We work with some exciting technologies including GitHub Docker, Kubernetes, CI/CD (Codefresh) and Vagrant to achieve optimum results.
+We take our development environment, and ability to push to production quickly, safely and with high quality results, very seriously. We’re constantly pushing and improving our development environments and processes. We work with some exciting technologies including GitHub, Docker, Kubernetes, CI/CD (Codefresh) and Vagrant to achieve optimum results.
 
 ### Documentation
 

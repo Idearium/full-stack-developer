@@ -1,6 +1,6 @@
 # Full-stack Web Developer - Challenge I
 
-The challenge is to create a very simply, yet working Node.js website, with the ability to create, edit and view MongoDB database records (a basic CRUD application).
+The challenge is to create a very simple, yet working Node.js website, with the ability to create, edit and view MongoDB database records (a basic CRUD application).
 
 We'd like you to limit development time spent on the project to three hours.
 
