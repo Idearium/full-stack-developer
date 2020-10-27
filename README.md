@@ -6,6 +6,10 @@ Developers at Idearium are expected to be resourceful, maintain their own learni
 
 We will give you the power to exercise your creativity, using all the latest technologies, with support from highly skilled team members that will make you want to jump up in the morning to get to work!
 
+## Technical challenge
+
+Please attempt the technical challenge [here](./CHALLENGE-I.md).
+
 ## Responsibilities
 
 ### Full-stack web development
