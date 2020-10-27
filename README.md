@@ -16,11 +16,11 @@ All of our developers are full-stack and participate in delivering all component
 
 ### WebOps development
 
-We take our development environment, and ability to push to production quickly, safely and with high quality results, very seriously. We’re constantly pushing and improving our development environments and processes. We work with the latest technologies including Docker, Consul and Vagrant to achieve optimum results.
+We take our development environment, and ability to push to production quickly, safely and with high quality results, very seriously. We’re constantly pushing and improving our development environments and processes. We work with some exciting technologies including GitHub Docker, Kubernetes, CI/CD (Codefresh) and Vagrant to achieve optimum results.
 
 ### Documentation
 
-We follow an Agile delivery process, as such we appreciate concise, yet thorough documentation. You’ll be required to update documentation as you program. Each pull request should be accompanied with code to complete associated user stories, and any documentation that might be required.
+We follow an Agile delivery process; as such we appreciate concise, yet thorough documentation. You’ll be required to update documentation as you program. Each pull request should be accompanied with code to complete associated user stories, and any documentation that might be required.
 
 ### Maintenance
 
@@ -30,12 +30,11 @@ With multiple projects delivered, and through employing iterative development pr
 
 You’ll be reporting directly to our Lead Architect (Scott) and Director (Alice) to schedule and plan upcoming projects.
 
-
 ## Skills
 
 - Front-end technologies such as HTML5, JavaScript, CSS. An interest in standards driven development and frameworks such as Vue.js, React, Redux, AngularJS, Bootstrap and jQuery.
 - Responsive design development to simultaneously target desktop and mobile devices.
-- Back-end technologies such as Node.js, MySQL, MongoDB and Redis.
+- Back-end technologies such as Node.js, MySQL, MongoDB, Redis and RabbitMQ.
 - Ability to manage and deliver work through Git and GitHub pull requests.
 - Understand the concepts of and apply test driven development.
 - Ability to work and deliver within an Agile framework.
